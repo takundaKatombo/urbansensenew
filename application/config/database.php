@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => '',
-	'password' => '',
-	'database' => '',
+	'hostname' => 'urbansense-do-user-9329871-0.b.db.ondigitalocean.com',
+	'username' => 'doadmin',
+	'password' => 'AVNS_dE0EI7tm1B0RPQl',
+	'database' => 'defaultdb',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
